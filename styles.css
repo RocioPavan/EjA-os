@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  input[type="text"], input[type="date"] {
+    padding: 8px;
+    margin: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #c084e4;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
